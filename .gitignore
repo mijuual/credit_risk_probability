@@ -1,2 +1,8 @@
 data
 .venv
+__pycache__/
+# MLflow tracking artifacts
+mlruns/
+
+# Model binaries
+models/
